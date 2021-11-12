@@ -39,7 +39,7 @@ const PostData = async(e)=>{
       window.alert("invalid details")
   }
   else{
-      window.alert("Post successfully added");
+      window.alert("User Registered Successfully");
       history.push("/Login");
   }    
 }
